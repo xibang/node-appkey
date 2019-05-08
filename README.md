@@ -37,7 +37,7 @@ gen x 121,577 ops/sec ±1.12% (78 runs sampled)
 
 ## License
 
-MIT
+Apache 2.0
 
 通过支付宝捐赠：
 
